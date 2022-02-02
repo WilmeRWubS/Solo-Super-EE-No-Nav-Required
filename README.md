@@ -1,6 +1,12 @@
 # Solo Super EE No Nav Required
 Updated script to fix Die Rise NAV bug
 
+**Installation:**
+
+Drag the .gsc file in %localappdata%/Plutonium/storage/t6/scripts/zm/zm_buried
+
+**Why this script?**
+
 Made for me and other people that were hinderd by the bug:  
 https://forum.plutonium.pw/topic/15569/navcard-tables-broken-anyone?_=1643811325947
 
